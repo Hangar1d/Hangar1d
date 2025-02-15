@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio: [https://hangar1d.github.io/](https://hangar1d.github.io/portfolio)
 
-- 📝 I regularly write articles on [https://storitoday.wordpress.com/](https://storitoday.wordpress.com/)
+- 📝 I regularly write my thoughts on [[https://storitoday.wordpress.com/](https://storitoday.wordpress.com/](https://thethoughtspaces.com/))
 
 - 📫 How to reach me **behangarid1@gmail.com**
 
