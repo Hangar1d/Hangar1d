@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 My Portfolio: [https://hangar1d.github.io/](https://hangar1d.github.io/)
+- 👨‍💻 My Portfolio: [https://hangar1d.github.io/](https://hangar1d.github.io/portfolio)
 
 - 📝 I regularly write articles on [https://storitoday.wordpress.com/](https://storitoday.wordpress.com/)
 
 - 📫 How to reach me **behangarid1@gmail.com**
 
-- 📄 Know about my experiences [https://hangar1d.github.io/](https://hangar1d.github.io/)
+- 📄 Know about my experiences [https://hangar1d.github.io/](https://hangar1d.github.io/portfolio)
 
 - ⚡ Fun fact **Knock! knock!. Who's there?...**
 
